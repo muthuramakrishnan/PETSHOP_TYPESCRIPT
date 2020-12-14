@@ -129,4 +129,4 @@ let petshop = new PetShop([dog1,cat1,dog1,cat1,dog1,dog1]);
 petshop.retrieveAvailablePets();
 
 //GET TOTAL COUNT OF DOGS AND CATS IN THE SHOP
-petshop.getTotalDogAndCatCount(); //retrieve how many dogs are available;
+petshop.getTotalDogAndCatCount();
